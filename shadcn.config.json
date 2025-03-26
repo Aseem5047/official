@@ -1,0 +1,14 @@
+{
+  "components": "./src/components/ui",
+  "theme": "default",
+  "rsc": false,
+  "tsx": false,
+  "tailwind": {
+    "css": "./src/index.css",
+    "baseColor": "slate",
+    "cssVariables": true
+  },
+  "aliases": {
+    "utils": "@/lib/utils"
+  }
+}
