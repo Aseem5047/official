@@ -13,8 +13,10 @@ const Carousel = () => {
             <img
               src={item.image}
               alt={item.title}
+              loading="lazy"
               className="w-full h-72 object-cover object-center"
             />
+
             <div className="absolute size-full max-h-[5rem] bottom-0 left-0 bg-gradient-to-t from-black via-black/50 to-black/0 flex items-end p-4 text-white font-bold">
               {item.title}
             </div>
