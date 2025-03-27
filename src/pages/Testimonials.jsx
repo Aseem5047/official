@@ -125,7 +125,7 @@ const Testimonials = () => {
             .map((item, i) => (
               <div
                 key={i}
-                className="relative flex flex-col items-center p-6 rounded-2xl min-h-[300px]"
+                className="relative flex flex-col items-center justify-center p-6 rounded-2xl min-h-[300px]"
               >
                 <div className="absolute inset-0 size-full rounded-2xl bg-gray-100 -skew-y-3" />
                 <div
@@ -136,13 +136,13 @@ const Testimonials = () => {
                   <img src="/icons/quote.png" alt="quote" className="size-7" />
                 </div>
                 <div className="flex flex-col items-center justify-center relative z-10">
-                  <img
+                  {/* <img
                     src={item.imageURL}
                     alt={item.username}
                     className="rounded-full size-[60px] object-cover mt-4"
-                  />
+                  /> */}
                   <p className="text-lg font-semibold mt-2">{item.username}</p>
-                  <p className="text-sm text-gray-500">{item.location}</p>
+                  {/* <p className="text-sm text-gray-500">{item.location}</p> */}
                   <div className="flex mb-4">
                     {Array.from({ length: 5 }, (_, j) => (
                       <svg

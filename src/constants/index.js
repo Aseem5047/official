@@ -82,10 +82,10 @@ export const feedbacks = [
   {
     imageURL:
       "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
-    ratings: 4.5,
+    ratings: 5,
     feedback:
-      "We struggled for years to find an IT company that we could trust. While others would try to sell us IT solutions. Ittech is exactly what our business has been lacking.",
-    username: "JohnDoe",
+      "Official.me has helped me turn my dance tutorials into a steady income stream. My students can access exclusive content, and I get paid instantly!",
+    username: "Rohan S. (Dance Instructor)",
     location: "New York, USA",
   },
   {
@@ -93,36 +93,72 @@ export const feedbacks = [
       "https://miro.medium.com/v2/resize:fit:1400/1*uovQPiAmMmVS4w0lK2iDaw.jpeg",
     ratings: 5.0,
     feedback:
-      "We struggled for years to find an IT company that we could trust. While others would try to sell us IT solutions. Ittech is exactly what our business has been lacking.",
-    username: "JaneSmith",
+      "I now offer personalized astrology reports and live sessions through Official.me. It’s easy to use, and my clients love the seamless experience!",
+    username: "Priya K. (Astrologer)",
     location: "London, UK",
   },
   {
     imageURL:
       "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
-    ratings: 4.0,
+    ratings: 5.0,
     feedback:
-      "We struggled for years to find an IT company that we could trust. While others would try to sell us IT solutions. Ittech is exactly what our business has been lacking.",
-    username: "CarlosM",
-    location: "Madrid, Spain",
+      "Sharing my financial insights has never been this profitable! Official.me allows me to sell premium reports and webinars effortlessly.",
+    username: "Arjun M. (Finance Consultant)",
+    location: "Location Unspecified",
   },
   {
     imageURL:
       "https://images.unsplash.com/photo-1580552833700-f99eed8b4de2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d29tYW4lMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D",
-    ratings: 3.5,
+    ratings: 5,
     feedback:
-      "We struggled for years to find an IT company that we could trust. While others would try to sell us IT solutions. Ittech is exactly what our business has been lacking.",
-    username: "AliceW",
-    location: "Sydney, Australia",
+      "I used to rely on social media for tarot consultations, but Official.me makes it so much easier. Clients can book readings and access exclusive insights anytime!",
+    username: "Neha T. (Tarot Reader)",
+    location: "Location Unspecified",
   },
   {
     imageURL:
       "https://www.scusd.edu/sites/main/files/main-images/camera_lense_0.jpeg",
-    ratings: 4.8,
+    ratings: 5,
     feedback:
-      "We struggled for years to find an IT company that we could trust. While others would try to sell us IT solutions. Ittech is exactly what our business has been lacking.",
-    username: "LingZ",
-    location: "Beijing, China",
+      "With Official.me, I can sell my guided meditation sessions and customized yoga plans without any hassle. It’s the perfect platform for wellness professionals!",
+    username: "Amit J. (Yoga Trainer)",
+    location: "Location Unspecified",
+  },
+  {
+    imageURL:
+      "https://images.unsplash.com/photo-1580552833700-f99eed8b4de2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d29tYW4lMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D",
+    ratings: 5,
+    feedback:
+      "I offer workout plans and diet guides, and Official.me makes it super simple to manage subscriptions. My clients love the convenience!",
+    username: "Sneha P. (Fitness Coach)",
+    location: "Location Unspecified",
+  },
+  {
+    imageURL:
+      "https://www.scusd.edu/sites/main/files/main-images/camera_lense_0.jpeg",
+    ratings: 5,
+    feedback:
+      "My exclusive lifestyle guides and behind-the-scenes content are selling better than ever! Official.me is a game-changer for content creators like me.",
+    username: "Kabir D. (Lifestyle Blogger)",
+    location: "Location Unspecified",
+  },
+  {
+    imageURL:
+      "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+    ratings: 5,
+    feedback:
+      "I teach advanced math through digital worksheets and video lessons. Official.me makes it easy to sell and deliver my courses to students worldwide!",
+    username: "Meera G. (Math Tutor)",
+    location: "Location Unspecified",
+  },
+  {
+    imageURL:
+      "https://miro.medium.com/v2/resize:fit:1400/1*uovQPiAmMmVS4w0lK2iDaw.jpeg",
+    ratings: 5,
+    feedback:
+      "My secret recipes and cooking masterclasses are now accessible to my audience with a single click. Official.me made monetizing my passion effortless!",
+    username: "Rahul V. (Cooking Expert)",
+    location: "Location Unspecified",
   },
 ];
 

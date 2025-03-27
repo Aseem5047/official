@@ -42,8 +42,8 @@ const ThriveBusiness = () => {
           </h2>
           <p className="text-base lg:text-lg xl:text-xl">
             Launch a business today with our help and get it done with amazing
-            launch features, websites and more with uifry. We help business like
-            yours thrive every day and beyond.
+            launch features, websites and more with official.me. We help
+            business like yours thrive every day and beyond.
           </p>
           <p className="text-base lg:text-lg xl:text-xl">
             We are making every business grow!
