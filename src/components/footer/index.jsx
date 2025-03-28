@@ -7,7 +7,11 @@ const Footer = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 2xl:grid-cols-[1fr_2fr] items-start justify-center w-full gap-7 2xl:gap-14 pb-12 md:px-14 lg:px-24 max-md:px-4">
         <div className="size-full flex flex-col gap-4 items-start justify-between">
           <div className="flex flex-col gap-4 items-start">
-            <img src="/images/official.png" alt="logo" className="w-[120px]" />
+            <img
+              src="/images/official.png"
+              alt="Official.me"
+              className="w-[150px] h-[24px] object-center"
+            />
           </div>
 
           {/* socials */}

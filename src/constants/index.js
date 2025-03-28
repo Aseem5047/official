@@ -85,7 +85,7 @@ export const feedbacks = [
     ratings: 5,
     feedback:
       "Official.me has helped me turn my dance tutorials into a steady income stream. My students can access exclusive content, and I get paid instantly!",
-    username: "Rohan S. (Dance Instructor)",
+    username: "Rohan (Dance Instructor)",
     location: "New York, USA",
   },
   {
@@ -94,7 +94,7 @@ export const feedbacks = [
     ratings: 5.0,
     feedback:
       "I now offer personalized astrology reports and live sessions through Official.me. It’s easy to use, and my clients love the seamless experience!",
-    username: "Priya K. (Astrologer)",
+    username: "Priya (Astrologer)",
     location: "London, UK",
   },
   {
@@ -103,7 +103,7 @@ export const feedbacks = [
     ratings: 5.0,
     feedback:
       "Sharing my financial insights has never been this profitable! Official.me allows me to sell premium reports and webinars effortlessly.",
-    username: "Arjun M. (Finance Consultant)",
+    username: "Arjun (Finance Consultant)",
     location: "Location Unspecified",
   },
   {
@@ -112,7 +112,7 @@ export const feedbacks = [
     ratings: 5,
     feedback:
       "I used to rely on social media for tarot consultations, but Official.me makes it so much easier. Clients can book readings and access exclusive insights anytime!",
-    username: "Neha T. (Tarot Reader)",
+    username: "Neha (Tarot Reader)",
     location: "Location Unspecified",
   },
   {
@@ -121,7 +121,7 @@ export const feedbacks = [
     ratings: 5,
     feedback:
       "With Official.me, I can sell my guided meditation sessions and customized yoga plans without any hassle. It’s the perfect platform for wellness professionals!",
-    username: "Amit J. (Yoga Trainer)",
+    username: "Amit (Yoga Trainer)",
     location: "Location Unspecified",
   },
   {
@@ -130,7 +130,7 @@ export const feedbacks = [
     ratings: 5,
     feedback:
       "I offer workout plans and diet guides, and Official.me makes it super simple to manage subscriptions. My clients love the convenience!",
-    username: "Sneha P. (Fitness Coach)",
+    username: "Sneha (Fitness Coach)",
     location: "Location Unspecified",
   },
   {
@@ -139,7 +139,7 @@ export const feedbacks = [
     ratings: 5,
     feedback:
       "My exclusive lifestyle guides and behind-the-scenes content are selling better than ever! Official.me is a game-changer for content creators like me.",
-    username: "Kabir D. (Lifestyle Blogger)",
+    username: "Kabir (Lifestyle Blogger)",
     location: "Location Unspecified",
   },
   {
@@ -148,7 +148,7 @@ export const feedbacks = [
     ratings: 5,
     feedback:
       "I teach advanced math through digital worksheets and video lessons. Official.me makes it easy to sell and deliver my courses to students worldwide!",
-    username: "Meera G. (Math Tutor)",
+    username: "Meera (Math Tutor)",
     location: "Location Unspecified",
   },
   {
@@ -157,7 +157,7 @@ export const feedbacks = [
     ratings: 5,
     feedback:
       "My secret recipes and cooking masterclasses are now accessible to my audience with a single click. Official.me made monetizing my passion effortless!",
-    username: "Rahul V. (Cooking Expert)",
+    username: "Rahul (Cooking Expert)",
     location: "Location Unspecified",
   },
 ];

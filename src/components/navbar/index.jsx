@@ -10,7 +10,7 @@ const Navbar = () => {
         <img
           src="/images/official.png"
           alt="Official.me"
-          className="w-[120px] h-[20px] object-center"
+          className="w-full max-w-[144px] h-[24px] object-center"
         />
 
         {/* Action Buttons */}
